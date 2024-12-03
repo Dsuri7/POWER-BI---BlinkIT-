@@ -1,6 +1,6 @@
-#### POWER-BI---BlinkIT-
-This Power BI project analyzes Blinkit’s sales performance, customer satisfaction, and outlet growth. The interactive dashboard highlights key metrics such as Total Sales ($1.20M), Average Sales ($141), 8,523 items sold, and an Average Rating of 3.9.
+##POWER-BI---BlinkIT-
 
+This Power BI project analyzes Blinkit’s sales performance, customer satisfaction, and outlet growth. The interactive dashboard provides valuable insights into sales trends, item performance, and outlet distribution, helping stakeholders make data-driven decisions.
 ## 📋 Business Requirements  
 
 ### 1. **Total Sales by Fat Content**  
@@ -29,4 +29,5 @@ This Power BI project analyzes Blinkit’s sales performance, customer satisfact
 
 ### 7. **All Metrics by Outlet Type**  
 - **Objective:** Provide a detailed comparison of all key metrics (Total Sales, Average Sales, Number of Items, Average Rating) by outlet type.  
-- **Chart Type:** Matrix Card  
+- **Chart Type:** Matrix Card
+
